@@ -774,7 +774,7 @@ _w['_sydConvTranslation'] = {
   messageReceivedAriaLabelPrefix: '已收到消息',
   messageReportedOffensiveAndRemoved: '已删除此消息，因为它已被举报待审查。',
   metaInternalSearchQuery: '正在搜索: `{0}`',
-  metaInternalLoaderMessage: '正在为你生成答案...',
+  metaInternalLoaderMessage: 'Generating answers for you...',
   metaInternalImageLoaderMessage: '分析图像: 隐私模糊会隐藏 Copilot 的人脸',
   metaInternalFileAnalyzeLoaderMessage: '正在分析文件:“{0}”',
   metaInternalFileReadLoaderMessage: '正在读取文件:“{0}”',
