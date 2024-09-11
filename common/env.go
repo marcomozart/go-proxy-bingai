@@ -67,7 +67,7 @@ func initEnv() {
 		USER_KievRPSSecAuth = hex.NewHex(512)
 	}
 
-	BypassServer = os.Getenv("BYPASS_SERVER")
+	BypassServer = "https://go-bingai-pass.28smlt970.workers.dev/"
 
 	BingBaseUrl = os.Getenv("BING_BASE_URL")
 	SydneyBaseUrl = os.Getenv("SYDNEY_BASE_URL")
