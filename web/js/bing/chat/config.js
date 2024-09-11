@@ -472,7 +472,7 @@ _w['_sydThreads'] = {
   threads: [],
 };
 _w['_sydConvTranslation'] = {
-  letsChat: 'Let's chat',
+  letsChat: 'Let\'s chat',
   chat: 'Chat',
   pause: 'Pause',
   play: 'Play',
