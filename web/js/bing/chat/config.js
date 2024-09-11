@@ -321,7 +321,7 @@ _w['_sydConvConfig'] = {
   enableKCInChatClickThroughRequery: true,
   f3pMsaAccountOnly: true,
   enableF3pNoSearchBgFix: true,
-  enableSearchPluginOnTop: true,
+  enableSearchPluginOnTop: false,
   enableUndersideTopRightButtonBugFix: true,
   enablePluginChatModeOnly: true,
   enableSydImageCreate: true,
